@@ -1,5 +1,6 @@
-# drill-image-api
-This repo is for a simple API to handle fetching of images in oil and gas domain
+# AIQ Challenge
+
+This repo is for a simple API to handle fetching of images in oil and gas domain.
 
 ## Description
 This is a simple project to learn about how to use FastAPI to make APIs that handle images
